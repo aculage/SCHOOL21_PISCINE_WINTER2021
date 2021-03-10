@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"ft_error.h": "c",
+		"ft_parser.h": "c",
+		"ft.h": "c"
+	}
+}
